@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "969465590999",
+    "project_id": "frekfiretest",
+    "storage_bucket": "frekfiretest.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969465590999:android:1e499c54a5562f4dbb6c92",
+        "android_client_info": {
+          "package_name": "com.devdiagon.fireldb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo3-hGnuPKr9mgDxPBdu6X0i7aHhazLq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
