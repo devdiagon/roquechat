@@ -1,4 +1,4 @@
-import 'package:riverpod/riverpod.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
 import '../../data/services/identity_service.dart';
 
 final identityServiceProvider = Provider<IdentityService>((ref) {
